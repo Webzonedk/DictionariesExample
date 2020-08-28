@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JediMindTricks", "JediMindTricks.csproj", "{E90A1126-364A-4C43-AA70-DCDE7A443C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90A1126-364A-4C43-AA70-DCDE7A443C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90A1126-364A-4C43-AA70-DCDE7A443C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90A1126-364A-4C43-AA70-DCDE7A443C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90A1126-364A-4C43-AA70-DCDE7A443C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F647D002-BB7E-41A3-BCFC-126A2F03DFBF}
+	EndGlobalSection
+EndGlobal
